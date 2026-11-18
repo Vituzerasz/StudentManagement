@@ -1,0 +1,42 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/-1.14-windows.xml
+/.android
+/.azure
+/.bash_history
+/.cache
+/.gemini
+/.gitconfig
+/.Ld9VirtualBox
+/.lesshst
+/.minttyrc
+/.ssh
+/.viminfo
+/.VirtualBox
+/.vscode
+/AppData
+/Contacts
+/Downloads
+/emac-uuid
+/Favorites
+/Links
+/Music
+/ntuser.dat
+/ntuser.dat.log1
+/ntuser.dat.log2
+/NTUSER.DAT{43708f27-a17b-11ef-b691-700894520f86}.TM.blf
+/NTUSER.DAT{43708f27-a17b-11ef-b691-700894520f86}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{43708f27-a17b-11ef-b691-700894520f86}.TMContainer00000000000000000002.regtrans-ms
+/ntuser.dat{f2c4dacd-7eaa-11f0-b70e-700894520f86}.TM.blf
+/ntuser.dat{f2c4dacd-7eaa-11f0-b70e-700894520f86}.TMContainer00000000000000000001.regtrans-ms
+/ntuser.dat{f2c4dacd-7eaa-11f0-b70e-700894520f86}.TMContainer00000000000000000002.regtrans-ms
+/ntuser.ini
+/OneDrive
+/pagina.html
+/Pictures
+/Saved Games
+/Searches
+/Videos
+/VirtualBox VMs
